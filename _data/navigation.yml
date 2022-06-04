@@ -3,7 +3,16 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Spectra"
-    url: /spectrum/overview/
+    url: /overview/
   - title: "About"
     url: /about/
+
+isotopes:
+  - title: "Overview"
+    url: /overview/
+    children:
+      - title: "K-40"
+        url: /spectrum/K-40/
+      - title: "U-238"
+        url: /spectrum/U-238/
 

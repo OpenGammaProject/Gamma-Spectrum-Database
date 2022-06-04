@@ -304,6 +304,12 @@ defaults:
     values:
       layout: single
       author_profile: false
-      sitemap: true
+      read_time: false
+      comments: # true
+      share: true
+      related: false
+      sidebar:
+        nav: "isotopes"
+
 
 
