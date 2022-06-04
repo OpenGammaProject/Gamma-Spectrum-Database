@@ -1,0 +1,9 @@
+# main links
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Spectra"
+    url: /spectrum/overview/
+  - title: "About"
+    url: /about/
+
