@@ -11,8 +11,48 @@ isotopes:
   - title: "Overview"
     url: /overview/
     children:
+      - title: "Am-241"
+        url: /spectrum/Am-241/
+      - title: "Ba-133"
+        url: /spectrum/Ba-133/
+      - title: "Co-57"
+        url: /spectrum/Co-57/
+      - title: "Co-60"
+        url: /spectrum/Co-60/
+      - title: "Cs-137"
+        url: /spectrum/Cs-137/
+      - title: "Eu-152"
+        url: /spectrum/Eu-152/
+      - title: "Fiestaware"
+        url: /spectrum/Fiestaware/
+      - title: "Ge-68/Ga-68"
+        url: /spectrum/Ge-68_Ga-68/
+      - title: "I-124"
+        url: /spectrum/I-124/
+      - title: "I-125"
+        url: /spectrum/I-125/
+      - title: "I-131"
+        url: /spectrum/I-131/
       - title: "K-40"
         url: /spectrum/K-40/
-      - title: "U-238"
-        url: /spectrum/U-238/
+      - title: "La-(III)-Oxide"
+        url: /spectrum/La-oxide/  
+      - title: "Lu-177"
+        url: /spectrum/Lu-177/
+      - title: "Lu-177m"
+        url: /spectrum/Lu-177m/
+      - title: "Na-22"
+        url: /spectrum/Na-22/
+      - title: "Pb-210"
+        url: /spectrum/Pb-210/
+      - title: "Ra-226"
+        url: /spectrum/Ra-226/
+      - title: "Sm-153"
+        url: /spectrum/Sm-153/
+      - title: "Sr-90"
+        url: /spectrum/Sr-90/
+      - title: "Tc-99m"
+        url: /spectrum/Tc-99m/
+      - title: "Uranium Glaze"
+        url: /spectrum/Uranium-glaze/
 
