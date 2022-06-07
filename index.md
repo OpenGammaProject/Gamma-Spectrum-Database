@@ -21,9 +21,10 @@ header:
 #    text: "Database of common gamma-ray emitting radioisotopes. [Text](/overview/){: .btn .btn--primary }"
 ---
 
-# Latest Posts
+# Last Updated
 
-{% for post in site.posts limit:3 %}
+{% assign sorted = site.spectrum | sort: 'date' | reverse %}
+{% for post in sorted limit:3 %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
 
