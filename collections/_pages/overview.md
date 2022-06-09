@@ -6,11 +6,11 @@ layout: collection
 collection: spectrum
 sort_by: title
 entries_layout: grid
-show_excerpts: false
+#show_excerpts: false
 
 classes: wide
 
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed cras ornare arcu dui. Feugiat in ante metus dictum at tempor commodo. Purus sit amet volutpat consequat. Risus quis varius quam quisque id diam."
+excerpt: "The complete list of all radioisotopes currently in the database sorted alphabetically by the element name."
 
 sidebar:
   nav: "isotopes"

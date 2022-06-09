@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 locale                   : "en-US"
 title                    : "Gamma Spectrum DB"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Gamma spectroscopy database" # site tagline that appears below site title in masthead
 name                     : "NuclearPhoenix"
-description              : "Database of common gamma-emitting radioisotopes and their gamma spectra."
+description              : "Comprehensive and open database of (common) gamma-ray-emitting radioisotopes and their gamma spectra."
 url                      : "https://gammadb.nuclearphoenix.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Open-Gamma-Project/Gamma-Spectrum-Database" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "NuclearPhoenix"
   avatar           : "/assets/images/nuclearphnx.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Everything can be done with a microcontroller!"
   location         : "Austria"
   email            :
   links:
