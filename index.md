@@ -3,7 +3,7 @@ title: "Welcome!"
 layout: splash #posts #home
 classes: wide
 
-excerpt: "GammaDB is the open and comprehensive database of (common) gamma-ray emitting radioisotopes in gamma-spectroscopy."
+excerpt: "GammaDB is the open and comprehensive database of (common) gamma-ray emitting radioisotopes for gamma-spectroscopy."
     
 header:
   overlay_image: /assets/images/Ra-226-header.png
