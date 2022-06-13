@@ -35,8 +35,8 @@ isotopes:
         url: /spectrum/I-131/
       - title: "K-40"
         url: /spectrum/K-40/
-      - title: "La-(III)-Oxide"
-        url: /spectrum/La-oxide/  
+      - title: "La-138"
+        url: /spectrum/La-138/  
       - title: "Lu-177"
         url: /spectrum/Lu-177/
       - title: "Lu-177m"
@@ -49,8 +49,6 @@ isotopes:
         url: /spectrum/Ra-226/
       - title: "Sm-153"
         url: /spectrum/Sm-153/
-      - title: "Sr-90"
-        url: /spectrum/Sr-90/
       - title: "Tc-99m"
         url: /spectrum/Tc-99m/
       - title: "Uranium Glaze"
