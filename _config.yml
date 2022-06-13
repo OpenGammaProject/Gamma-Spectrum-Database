@@ -287,7 +287,6 @@ defaults:
       author_profile: true
       sitemap: true
       read_time: true
-      comments: # true
       share: true
       related: true
       show_date: true
@@ -308,10 +307,11 @@ defaults:
       layout: single
       author_profile: false
       sitemap: true
-      read_time: false
+      read_time: true
       share: true
       related: false
       classes: wide
+      show_date: false
       sidebar:
         nav: "isotopes"
 
