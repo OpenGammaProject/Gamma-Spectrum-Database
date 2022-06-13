@@ -274,6 +274,7 @@ collections:
   spectrum:
     output: true
     permalink: /:collection/:path/
+    sort_by: title
 
 # Defaults
 defaults:

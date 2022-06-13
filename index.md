@@ -22,7 +22,7 @@ header:
 
 # Last Updated Isotopes
 
-{% assign sorted = site.spectrum | sort: 'date' | reverse %}
+{% assign sorted = site.spectrum | sort: 'last_modified_at' | reverse %}
 {% for post in sorted limit:3 %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
