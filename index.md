@@ -20,7 +20,7 @@ header:
 #    text: "Database of common gamma-ray emitting radioisotopes. [Text](/overview/){: .btn .btn--primary }"
 ---
 
-# Last Updated Isotopes
+## Last Updated Isotopes
 
 {% assign sorted = site.spectrum | sort: 'last_modified_at' | reverse %}
 {% for post in sorted limit:3 %}
