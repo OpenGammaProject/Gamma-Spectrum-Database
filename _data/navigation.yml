@@ -37,10 +37,8 @@ isotopes:
         url: /spectrum/K-40/
       - title: "La-138"
         url: /spectrum/La-138/  
-      - title: "Lu-177"
+      - title: "Lu-177(m)"
         url: /spectrum/Lu-177/
-      - title: "Lu-177m"
-        url: /spectrum/Lu-177m/
       - title: "Na-22"
         url: /spectrum/Na-22/
       - title: "Pb-210"

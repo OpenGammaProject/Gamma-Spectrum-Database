@@ -2,11 +2,11 @@
 title: Fiestaware
 collection: spectrum
 #date: 2022-06-07 21:00:00 +0200
-last_modified_at: 2022-06-13 21:30:00 +0200
-
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed cras ornare arcu dui. Feugiat in ante metus dictum at tempor commodo. Purus sit amet volutpat consequat. Risus quis varius quam quisque id diam."
+last_modified_at: 2022-08-08 13:45:00 +0200
 
 ---
+
+Brilliant red Fiesta (and indeed the red glazes produced by all U.S. potteries of the era) is known for having a detectable amount of uranium oxide in its glaze, which produced the orange-red color. During World War II, the government took control of uranium for development of the atom bomb, and confiscated the company's stocks. Homer Laughlin discontinued Fiesta red in 1944. The company reintroduced Fiesta red in 1959 using depleted uranium (rather than the original natural uranium), after the Atomic Energy Commission relaxed its restrictions on uranium oxide. In addition to pottery glazing, uranium oxide was used even more extensively in the tiling industry, producing uranium tile.
 
 ### Spectrum
 
@@ -20,8 +20,6 @@ excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 | Atomic number: | --- |
 | Neutron number: | --- |
 | ... | ... |
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed cras ornare arcu dui. Feugiat in ante metus dictum at tempor commodo. Purus sit amet volutpat consequat. Risus quis varius quam quisque id diam.
 
 ### Sources and Further Read
 
