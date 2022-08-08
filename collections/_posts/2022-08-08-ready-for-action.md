@@ -1,6 +1,6 @@
 ---
 title: "Ready for action!"
-date: 2022-06-05 17:30:00 +0200
+date: 2022-08-08 19:07:00 +0200
 tags: contributing jekyll database github
 categories: jekyll update
 toc: true
