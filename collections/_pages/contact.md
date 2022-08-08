@@ -14,5 +14,5 @@ This site is part of the [Open Gamma Project](https://github.com/Open-Gamma-Proj
 
 ## Want to submit a spectrum or a new radioisotope?
 
-Awesome! Please open an issue (or pull request) on [Github](https://github.com/Open-Gamma-Project/Gamma-Spectrum-Database) with your spectrum source file (CSV, XML, TKA, ...), the specific duration of the measurement and the detector setup. You can also write me an email if you don't want to do it via GitHub for any reason.
+Awesome! Please open an issue, discussion thread or pull request on [Github](https://github.com/Open-Gamma-Project/Gamma-Spectrum-Database) with your spectrum source file (CSV, XML, TKA, ...), the specific duration of the measurement and the detector setup. You can also write me an email if you don't want to do it via GitHub for any reason.
 
