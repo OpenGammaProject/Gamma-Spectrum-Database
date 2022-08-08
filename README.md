@@ -2,7 +2,7 @@
 
 Open and comprehensive database of (common) gamma-ray emitting radioisotopes for gamma-spectroscopy built with Jekyll and [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
 
-All the spectrum files that are embedded into the site can be found in [/assets/spectra/](/assets/spectra/). Entirely new pages must also be added to the navigation bar ([_data/](_data/)!
+All the spectrum files that are embedded into the site can be found in [/assets/spectra/](/assets/spectra/). Entirely new pages must also be added to the navigation bar ([_data/](_data/))!
 
 The corresponding Jekyll pages for all the isotopes can be found in [/collections/_spectrum/](/collections/_spectrum/).
 
