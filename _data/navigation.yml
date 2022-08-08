@@ -11,22 +11,34 @@ isotopes:
   - title: "Overview"
     url: /overview/
     children:
+      - title: "Ac-225"
+        url: /spectrum/Ac-225/
       - title: "Am-241"
         url: /spectrum/Am-241/
+      - title: "Ba-131"
+        url: /spectrum/Ba-131/
       - title: "Ba-133"
         url: /spectrum/Ba-133/
+      - title: "Ceramic Pipe"
+        url: /spectrum/CeramicPipe/
       - title: "Co-57"
         url: /spectrum/Co-57/
       - title: "Co-60"
         url: /spectrum/Co-60/
+      - title: "Cr-51"
+        url: /spectrum/Cr-51/
       - title: "Cs-137"
         url: /spectrum/Cs-137/
+      - title: "Er-169"
+        url: /spectrum/Er-169/
       - title: "Eu-152"
         url: /spectrum/Eu-152/
       - title: "Fiestaware"
         url: /spectrum/Fiestaware/
       - title: "Ge-68/Ga-68"
         url: /spectrum/Ge-68_Ga-68/
+      - title: "Hg-197m"
+        url: /spectrum/Hg-197m/
       - title: "I-124"
         url: /spectrum/I-124/
       - title: "I-125"
@@ -36,19 +48,33 @@ isotopes:
       - title: "K-40"
         url: /spectrum/K-40/
       - title: "La-138"
-        url: /spectrum/La-138/  
+        url: /spectrum/La-138/
+      - title: "Lu-176"
+        url: /spectrum/Lu-176/
       - title: "Lu-177(m)"
         url: /spectrum/Lu-177/
       - title: "Na-22"
         url: /spectrum/Na-22/
       - title: "Pb-210"
         url: /spectrum/Pb-210/
+      - title: "Pitchblende"
+        url: /spectrum/Pitchblende/
       - title: "Ra-226"
         url: /spectrum/Ra-226/
+      - title: "Radium Dial"
+        url: /spectrum/RadiumDial/
+      - title: "Re-186"
+        url: /spectrum/Re-186/
+      - title: "Re-188"
+        url: /spectrum/Re-188/
       - title: "Sm-153"
         url: /spectrum/Sm-153/
       - title: "Tc-99m"
         url: /spectrum/Tc-99m/
+      - title: "Thorium Source"
+        url: /spectrum/ThoriumSource/
       - title: "Uranium Glaze"
         url: /spectrum/Uranium-glaze/
+      - title: "Zeunerite"
+        url: /spectrum/Zeunerite/
 
