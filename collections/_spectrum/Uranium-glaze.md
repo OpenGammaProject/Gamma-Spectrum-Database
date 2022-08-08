@@ -14,6 +14,7 @@ The use of uranium in ceramic glazes ceased during World War II when all uranium
 ### Spectrum
 
 <iframe width="100%" height="500" src="/assets/spectra/Uranium-glaze.html" title="Uranium Glaze gamma spectrum" frameborder="0" allowfullscreen></iframe>
+10 minute measurement with a High Purity Germanium (HPGe) radiation detector.
 
 ### Metadata
 

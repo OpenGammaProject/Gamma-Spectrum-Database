@@ -11,6 +11,7 @@ Technetium-99m is the hallmark technetium isotope employed in the nuclear medici
 ### Spectrum
 
 <iframe width="100%" height="500" src="/assets/spectra/Tc-99m.html" title="Tc-99m gamma spectrum" frameborder="0" allowfullscreen></iframe>
+5 minute measurement with a High Purity Germanium (HPGe) radiation detector.
 
 ### Metadata
 

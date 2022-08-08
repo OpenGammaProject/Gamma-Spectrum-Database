@@ -11,6 +11,7 @@ Brilliant red Fiesta (and indeed the red glazes produced by all U.S. potteries o
 ### Spectrum
 
 <iframe width="100%" height="500" src="/assets/spectra/Fiestaware.html" title="Fiestaware gamma spectrum" frameborder="0" allowfullscreen></iframe>
+5 minute measurement with a High Purity Germanium (HPGe) radiation detector.
 
 ### Metadata
 
