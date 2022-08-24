@@ -2,11 +2,11 @@
 title: Thorium Source
 collection: spectrum
 #date: 2022-06-07 21:00:00 +0200
-last_modified_at: 2022-08-08 16:50:00 +0200
+last_modified_at: 2022-08-24 15:11:00 +0200
 
 ---
 
-Thorium source bought on ebay USA. The exact composition of radioisotopes in this sample is unknown, but could be reverse-engineered with this spectrum of course.
+Thorium source bought on ebay USA. The exact composition of radioisotopes in this sample is unknown, but could be reverse-engineered with this spectrum. It seems like this source contains of both <sup>232</sup>Th and <sup>234</sup>Th and of course all their daughter products.
 
 ### Spectrum ([Fullscreen](/assets/spectra/ThoriumSource.html))
 

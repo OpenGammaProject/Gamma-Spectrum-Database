@@ -2,7 +2,7 @@
 title: Technetium-99m
 collection: spectrum
 #date: 2022-06-07 21:00:00 +0200
-last_modified_at: 2022-08-08 14:20:00 +0200
+last_modified_at: 2022-08-24 15:10:00 +0200
 
 ---
 
