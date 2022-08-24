@@ -10,7 +10,7 @@ Radium dials are watch, clock and other instrument dials painted with luminous p
 
 Due to the use of <sup>226</sup>Ra only, without adding any other radioisotope, this spectrum is (almost) completely identical to the other <sup>226</sup>Ra measurement in this database.
 
-### Spectrum
+### Spectrum ([Fullscreen](/assets/spectra/RadiumDial.html))
 
 <iframe width="100%" height="500" src="/assets/spectra/RadiumDial.html" title="Radium dial gamma spectrum" frameborder="0" allowfullscreen></iframe>
 5 minute measurement with a High Purity Germanium (HPGe) radiation detector.

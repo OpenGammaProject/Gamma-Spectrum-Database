@@ -11,7 +11,7 @@ Uranium tiles have been used in the ceramics industry for many centuries, as ura
 
 The use of uranium in ceramic glazes ceased during World War II when all uranium was diverted to the Manhattan project and didn't resume until 1959. In 1987, NCRP Report 95 indicated that no manufacturers were using uranium-glaze in dinnerware.
 
-### Spectrum
+### Spectrum ([Fullscreen](/assets/spectra/Uranium-glaze.html))
 
 <iframe width="100%" height="500" src="/assets/spectra/Uranium-glaze.html" title="Uranium Glaze gamma spectrum" frameborder="0" allowfullscreen></iframe>
 10 minute measurement with a High Purity Germanium (HPGe) radiation detector.

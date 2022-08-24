@@ -8,7 +8,7 @@ last_modified_at: 2022-08-08 16:50:00 +0200
 
 Thorium source bought on ebay USA. The exact composition of radioisotopes in this sample is unknown, but could be reverse-engineered with this spectrum of course.
 
-### Spectrum
+### Spectrum ([Fullscreen](/assets/spectra/ThoriumSource.html))
 
 <iframe width="100%" height="500" src="/assets/spectra/ThoriumSource.html" title="Thorium Source gamma spectrum" frameborder="0" allowfullscreen></iframe>
 10 minute measurement with a High Purity Germanium (HPGe) radiation detector.
