@@ -22,7 +22,7 @@ name                     : "NuclearPhoenix"
 description              : "Comprehensive and open database of (common) gamma-ray-emitting radioisotopes and their gamma spectra."
 url                      : "https://gammadb.nuclearphoenix.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Open-Gamma-Project/Gamma-Spectrum-Database" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "OpenGammaProject/Gamma-Spectrum-Database" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/opengamma.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
