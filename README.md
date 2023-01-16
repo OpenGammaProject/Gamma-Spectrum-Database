@@ -1,6 +1,6 @@
 # Gamma-Spectrum-Database
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Open-Gamma-Project/Gamma-Spectrum-Database?style=flat-square) ![GitHub](https://img.shields.io/github/license/Open-Gamma-Project/Gamma-Spectrum-Database?style=flat-square) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgammadb.nuclearphoenix.xyz&style=flat-square) ![GitHub deployments](https://img.shields.io/github/deployments/Open-Gamma-Project/Gamma-Spectrum-Database/github-pages?label=GitHub%20%20Pages&style=flat-square)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/OpenGammaProject/Gamma-Spectrum-Database?style=flat-square) ![GitHub](https://img.shields.io/github/license/OpenGammaProject/Gamma-Spectrum-Database?style=flat-square) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgammadb.nuclearphoenix.xyz&style=flat-square) ![GitHub deployments](https://img.shields.io/github/deployments/OpenGammaProject/Gamma-Spectrum-Database/github-pages?label=GitHub%20%20Pages&style=flat-square)
 
 Open and comprehensive database of (common) gamma-ray emitting radioisotopes for gamma-spectroscopy built with Jekyll and [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
 
