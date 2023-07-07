@@ -23,7 +23,7 @@ There are multiple ways to do so, here's a rough guideline:
 
 If you're not sure where to post your request, just choose any of the above and we'll figure it out ;)
 
-**A small guide to add a new spectrum to the database can be found in this [post](https://gammadb.nuclearphoenix.xyz/jekyll/update/ready-for-action/)!**
+**A small guide to add a new spectrum to the database can be found in this [post](https://gammadb.nuclearphoenix.xyz/jekyll/update/ready-for-action/#contributing)!**
 
 ## Copyright
 
