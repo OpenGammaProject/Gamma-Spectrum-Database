@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-remote_theme             : "phoenix1747/minimal-mistakes@4.24.1"
+remote_theme             : "nuclearphoenixx/minimal-mistakes@4.24.1"
 minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum
 
 # Site Settings
@@ -117,7 +117,7 @@ author:
       url: "https://nuclearphoenix.xyz"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Phoenix1747"
+      url: "https://github.com/NuclearPhoenixx"
 
 # Site Footer
 footer:
