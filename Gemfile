@@ -13,5 +13,5 @@ group :jekyll_plugins do
 	#gem "jekyll-admin"
 end
 
+gem "webrick" # Fixes local building issue, works fine without on gh pages
 
-#gem "webrick", "~> 1.7"
