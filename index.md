@@ -20,7 +20,7 @@ header:
 #    text: "Database of common gamma-ray emitting radioisotopes. [Text](/overview/){: .btn .btn--primary }"
 ---
 
-## Last Updated Isotopes
+## Last Updated Isotopes <a href="https://hits.seeyoufarm.com"><img style="float: right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgammadb.nuclearphoenix.xyz&count_bg=%23FF9328&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
 {% assign sorted = site.spectrum | sort: 'last_modified_at' | reverse %}
 {% for post in sorted limit:3 %}
