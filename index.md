@@ -20,7 +20,7 @@ header:
 last_modified_at: 2024-02-24 15:10:00 +0200
 ---
 
-## Last Updated Isotopes
+## Most Recently Updated
 
 {% assign sorted = site.spectrum | sort: 'last_modified_at' | reverse %}
 {% for post in sorted limit:3 %}
