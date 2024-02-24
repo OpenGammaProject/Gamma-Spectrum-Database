@@ -20,7 +20,7 @@ header:
 last_modified_at: 2024-02-24 15:10:00 +0200
 ---
 
-## Last Updated Isotopes <a href="https://hits.seeyoufarm.com"><img style="float: right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgammadb.nuclearphoenix.xyz&count_bg=%23FF9328&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+## Last Updated Isotopes
 
 {% assign sorted = site.spectrum | sort: 'last_modified_at' | reverse %}
 {% for post in sorted limit:3 %}
