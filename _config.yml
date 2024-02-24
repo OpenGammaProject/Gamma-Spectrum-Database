@@ -307,7 +307,7 @@ defaults:
       layout: single
       author_profile: false
       sitemap: true
-      read_time: true
+      read_time: false
       share: true
       related: false
       classes: wide
