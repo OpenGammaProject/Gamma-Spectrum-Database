@@ -140,6 +140,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Site Notice"
+      icon: "fas fa-fw fa-link"
+      url: "https://nuclearphoenix.xyz/legal/"
 
 
 # Reading Files
