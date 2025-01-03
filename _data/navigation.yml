@@ -19,6 +19,8 @@ isotopes:
         url: /spectrum/Ba-131/
       - title: "Ba-133"
         url: /spectrum/Ba-133/
+      - title: "Bi-207"
+        url: /spectrum/Bi-207/
       - title: "Ceramic Pipe"
         url: /spectrum/CeramicPipe/
       - title: "Co-57"
