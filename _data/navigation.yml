@@ -33,6 +33,8 @@ isotopes:
         url: /spectrum/Er-169/
       - title: "Eu-152"
         url: /spectrum/Eu-152/
+      - title: "Fe-55"
+        url: /spectrum/Fe-55/
       - title: "Fiestaware"
         url: /spectrum/Fiestaware/
       - title: "Ge-68/Ga-68"
