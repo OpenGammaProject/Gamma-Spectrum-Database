@@ -10,6 +10,7 @@ The corresponding Jekyll pages for all the isotopes can be found in [/collection
 
 Blog posts for updates and the kind are in [/collections/_posts/](/collections/_posts/) and static pages are in [/collections/_pages/](/collections/_pages/).
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61GLR3G)
 
 ## Contributing
 
