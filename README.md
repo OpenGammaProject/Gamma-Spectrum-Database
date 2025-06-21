@@ -28,6 +28,6 @@ If you're not sure where to post your request, just choose any of the above and 
 
 ## Copyright
 
-This repository, the code and all the spectra are licensed under GPLv3, therefore you are allowed to do basically anything with it as long as it does not violate the license. This, however, does not apply to any of the favicons and logos -- so please don't use them for your own purposes. Thanks!
+This repository, the code and all the spectra are licensed under GPLv3, therefore you are allowed to do basically anything with it as long as it does not violate the license. This, however, does **not** apply to any of the favicons and logos, basically all the branding -- so please **do not** reuse them for your own purposes. Thanks!
 
 Note to self: Build and deploy locally using `bundle exec jekyll serve --force_polling --livereload`
