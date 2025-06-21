@@ -15,3 +15,9 @@ This site is part of the [Open Gamma Project](https://github.com/OpenGammaProjec
 ## Want to submit a spectrum or a new radioisotope?
 
 Awesome! Please open an issue, discussion thread or pull request on [Github](https://github.com/OpenGammaProject/Gamma-Spectrum-Database) with your spectrum source file (CSV, XML, TKA, ...), the specific duration of the measurement and the detector setup. You can also write me an email if you don't want to do it via GitHub for any reason.
+
+## Support this project
+
+If you like this project, please consider donating spectra like mentioned above to keep it alive. Also if you want to support me working on things like this, please consider supporting on Ko-Fi:
+
+<a href='https://ko-fi.com/J3J61GLR3G' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>

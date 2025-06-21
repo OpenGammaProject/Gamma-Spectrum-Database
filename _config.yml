@@ -143,6 +143,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Ko-fi"
+      icon: "fas fa-fw fa-heart"
+      url: "https://ko-fi.com/nuclearphoenix"
     - label: "Site Notice"
       icon: "fas fa-fw fa-link"
       url: "https://nuclearphoenix.xyz/legal/"
