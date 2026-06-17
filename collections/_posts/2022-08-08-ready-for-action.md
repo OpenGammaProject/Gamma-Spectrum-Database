@@ -16,11 +16,11 @@ I hope to expand the scope of the different individual detectors on top of the H
 
 You can add to _any_ of the existing radioisotopes if your detector hasn't been featured there already or if you're spectrum is in any kind special (like better resolution, less noise, etc.). You can also add an entirely new isotope to the list!
 
-To do so, you only have to provide the energy spectrum files and your detector calibration file. These must be compatible with the [Gamma MCA app](https://spectrum.nuclearphoenix.xyz) as that's the tool I am using to export the HTML plots. Optionally, you can also include a fitting background spectrum. Unfortunately, simply exporting images of your spectrum is not enough as there are plenty of other static databases and this would also break uniformity in the page. Having a lightweight Javascript plot to look at the spectra is just so much better, even just for the sake of zooming into the image without having to look at a pixelated mess.
+To do so, you only have to provide the energy spectrum files and your detector calibration file. These must be compatible with the [Gamma MCA app](https://spectrum.nuclearphoenix.net) as that's the tool I am using to export the HTML plots. Optionally, you can also include a fitting background spectrum. Unfortunately, simply exporting images of your spectrum is not enough as there are plenty of other static databases and this would also break uniformity in the page. Having a lightweight Javascript plot to look at the spectra is just so much better, even just for the sake of zooming into the image without having to look at a pixelated mess.
 
 ### Compatability
 
-To check file compatability you can do so directly in [Gamma MCA](https://spectrum.nuclearphoenix.xyz), here's a screenshot:
+To check file compatability you can do so directly in [Gamma MCA](https://spectrum.nuclearphoenix.net), here's a screenshot:
 
 ![Gamma MCA tutorial](/assets/posts/gamma-tut.png)
 

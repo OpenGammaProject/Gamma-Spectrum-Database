@@ -20,7 +20,7 @@ title_separator          : "-"
 subtitle                 : "Gamma spectroscopy database" # site tagline that appears below site title in masthead
 name                     : "NuclearPhoenix"
 description              : "Comprehensive and open database of (common) gamma-ray-emitting radioisotopes and their gamma spectra."
-url                      : "https://gammadb.nuclearphoenix.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gammadb.nuclearphoenix.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "OpenGammaProject/Gamma-Spectrum-Database" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -117,7 +117,7 @@ author:
       url: "mailto:hello@nuclearphoenix.xyz"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://nuclearphoenix.xyz"
+      url: "https://nuclearphoenix.net"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NuclearPhoenixx"
@@ -148,7 +148,7 @@ footer:
       url: "https://ko-fi.com/nuclearphoenix"
     - label: "Site Notice"
       icon: "fas fa-fw fa-section"
-      url: "https://nuclearphoenix.xyz/legal/"
+      url: "https://nuclearphoenix.net/legal/"
   since: "2022"
 
 

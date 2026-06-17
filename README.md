@@ -1,6 +1,6 @@
 # Gamma-Spectrum-Database
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/OpenGammaProject/Gamma-Spectrum-Database?style=flat-square) ![GitHub](https://img.shields.io/github/license/OpenGammaProject/Gamma-Spectrum-Database?style=flat-square) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgammadb.nuclearphoenix.xyz&style=flat-square) ![GitHub deployments](https://img.shields.io/github/deployments/OpenGammaProject/Gamma-Spectrum-Database/github-pages?label=GitHub%20%20Pages&style=flat-square)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/OpenGammaProject/Gamma-Spectrum-Database?style=flat-square) ![GitHub](https://img.shields.io/github/license/OpenGammaProject/Gamma-Spectrum-Database?style=flat-square) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgammadb.nuclearphoenix.net&style=flat-square) ![GitHub deployments](https://img.shields.io/github/deployments/OpenGammaProject/Gamma-Spectrum-Database/github-pages?label=GitHub%20%20Pages&style=flat-square)
 
 Open and comprehensive database of (common) gamma-ray emitting radioisotopes for gamma-spectroscopy built with Jekyll and [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
 
@@ -24,7 +24,7 @@ There are multiple ways to do so, here's a rough guideline:
 
 If you're not sure where to post your request, just choose any of the above and we'll figure it out ;)
 
-**A small guide to add a new spectrum to the database can be found in this [post](https://gammadb.nuclearphoenix.xyz/jekyll/update/ready-for-action/#contributing)!**
+**A small guide to add a new spectrum to the database can be found in this [post](https://gammadb.nuclearphoenix.net/jekyll/update/ready-for-action/#contributing)!**
 
 ## Copyright
 
